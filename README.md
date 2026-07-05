@@ -1,6 +1,6 @@
 ### Hi, I'm Seyran 👋
 
-CS Master's student at ELTE Budapest, focused on backend engineering — 
+CS Master's student, focused on backend engineering — 
 building Node.js services (NestJS, Express) with an emphasis on 
 distributed systems, data consistency, and the patterns that keep 
 services correct under load. I also build on the frontend side with 
